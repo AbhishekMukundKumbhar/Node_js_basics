@@ -1,0 +1,1 @@
+promisify() is used to make particular methode is promisablelike how we did for readfile creating promise object if we do this for read file also then no need of gettext method

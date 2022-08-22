@@ -1,0 +1,1 @@
+added result data Hello this is first file created to understand fs ( file ) module. Hello this is second file created to understand fs ( file ) module.
